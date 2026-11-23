@@ -1,128 +1,132 @@
 <div align="center">
 
-<!-- Matrix Digital Rain Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:00FF66&height=220&section=header&text=MOHAMMED%20FIRAS%20OUAJA&fontSize=42&fontColor=00FF66&fontAlignY=40&desc=WAKE%20UP...%20THE%20MATRIX%20HAS%20YOU.&descSize=18&descAlignY=62&descColor=A8FFB2&animation=twinkling" width="100%" alt="Matrix Banner" />
+<!-- Animated Matrix Digital Rain Banner GIF -->
+<img src="https://media.giphy.com/media/uWzS6ZLs0AaVO/giphy.gif" width="100%" height="180" alt="Matrix Digital Rain" />
 
-<!-- Animated Terminal Typing SVG -->
+<br />
+
+<!-- Animated CRT Terminal Typing Effect -->
 <a href="https://github.com/MohammedFirasOuaja">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=650&lines=Initializing+Neural+Handshake...;Accessing+Zion+Mainframe...;Software+Engineer+%7C+Low-Level+%26+Game+Dev;System+Breach+Successful.+Welcome+to+the+Real+World." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=720&height=55&lines=Wake+up%2C+Mohammed+Firas+Ouaja...;The+Matrix+has+you.;Follow+the+white+rabbit.;Knock%2C+knock%2C+Neo." alt="Matrix Typing Animation" />
+</a>
+
+<br />
+
+<!-- Animated Status Sub-Terminal -->
+<a href="https://github.com/MohammedFirasOuaja">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1200&color=00CC33&center=true&vCenter=true&width=720&height=35&lines=%5BCONNECTED%5D+ZION+MAINFRAME+%7C%7C+LOW-LEVEL+%26+GAME+DEV+%7C%7C+FULL-STACK;%5BSTATUS%5D+COMPILING+REALITY+IN+C+%2F+C%2B%2B+%2F+TS+%2F+LUA+%2F+PYTHON" alt="System Status" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OPERATOR-ACTIVE-00FF66?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=002200" />
-  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_ZION-00FF66?style=for-the-badge&logo=securityscorecard&logoColor=black&labelColor=002200" />
-  <img src="https://img.shields.io/badge/SIGNAL-ENCRYPTED-00FF66?style=for-the-badge&logo=matrix&logoColor=black&labelColor=002200" />
+  <img src="https://img.shields.io/badge/OPERATOR-MOHAMMED_FIRAS_OUAJA-00FF41?style=for-the-badge&logo=gnubash&logoColor=000000&labelColor=0D0208" />
+  <img src="https://img.shields.io/badge/PILL-RED_PILL_TAKEN-FF0033?style=for-the-badge&logo=matrix&logoColor=FFFFFF&labelColor=0D0208" />
+  <img src="https://img.shields.io/badge/SIGNAL-UNTRACEABLE-00FF41?style=for-the-badge&logo=hackthebox&logoColor=000000&labelColor=0D0208" />
 </p>
 
 </div>
 
 ---
 
-### 🟢 `[SYS_IDENT: OPERATOR_DOSSIER]`
+### 🟢 `> ./whoami.sh`
 
-```bash
-$ neofetch --matrix-mode
-```
-
-```yaml
-Operator     : Mohammed Firas Ouaja
-Status       : Disconnected from the Pod / Fully Conscious
-Specialties  : Low-Level Architecture, Systems Engineering, Game Development
-Mindset      : "There is no spoon."
-Current Goal : Constructing virtual realities & breaking simulation boundaries
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║  CALL TRANS OPT: RECEIVED.   TRACE PROGRAM: RUNNING...               ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  OPERATOR   : Mohammed Firas Ouaja                                   ║
+║  ROLE       : Developer // Systems, Web & Game Engineering           ║
+║  CONSTRUCT  : C, C++, TypeScript, JavaScript, Python, PHP, Lua, SQL  ║
+║  ENGINE     : SDL2 & Roblox Studio                                   ║
+║  DIRECTIVE  : "Free your mind. Build from scratch."                  ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-### 💾 `[CONSTRUCT: WEAPONS_AND_TRAINING]`
+### 💾 `> load_construct --weapons-and-skills`
 
-> *"I need guns. Lots of guns." — Neo*
+> *"Tank, load the jump program."*
 
-#### ⚡ Core Subroutines & Compilers
+#### ⚡ Systems, Scripting & Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-0D0208?style=for-the-badge&logo=c&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/C++-0D0208?style=for-the-badge&logo=cplusplus&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Python-0D0208?style=for-the-badge&logo=python&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/TypeScript-0D0208?style=for-the-badge&logo=typescript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/JavaScript-0D0208?style=for-the-badge&logo=javascript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/PHP-0D0208?style=for-the-badge&logo=php&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Lua-0D0208?style=for-the-badge&logo=lua&logoColor=00FF41" />
 </p>
 
-#### 🌐 Web Interface Protocols
+#### 🌐 Frontend, Databases & Game Engines
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-#### 🗄️ Mainframe & Memory Records
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-#### 🎮 Simulation & Physics Engines
-<p align="left">
-  <img src="https://img.shields.io/badge/SDL2-1774A5?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-0D0208?style=for-the-badge&logo=html5&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/CSS3-0D0208?style=for-the-badge&logo=css3&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/SQL-0D0208?style=for-the-badge&logo=postgresql&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/MySQL-0D0208?style=for-the-badge&logo=mysql&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/SDL2-0D0208?style=for-the-badge&logo=c&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Roblox_Studio-0D0208?style=for-the-badge&logo=robloxstudio&logoColor=00FF41" />
 </p>
 
 ---
 
-### 🕹️ `[CLASSIFIED_SIMULATION: PROJECT_SHOWCASE]`
+### 🕹️ `> ./exec --simulation "CyberPunk: System Break"`
 
 ```diff
-+ [EXECUTE] ./launch_cyberpunk_system_break.bin --render=SDL2
++ [BREACH DETECTED] Launching custom 2D engine...
++ [RENDERER] SDL2 Hardware Pipeline Active
 ```
 
-<table border="0">
+<table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="62%" valign="top">
       <h3>⚡ CyberPunk: System Break</h3>
       <p>
         <strong>Custom 2D cyberpunk action game engineered from scratch in C / SDL2 with real-time rendering & combat.</strong>
       </p>
       <ul>
-        <li><strong>Engine:</strong> Built directly on top of <code>C</code> and <code>SDL2</code> (No pre-built high-level bloat).</li>
-        <li><strong>Architecture:</strong> Custom state manager, collision matrix, and sprite animation pipeline.</li>
-        <li><strong>Combat Mechanics:</strong> Fast-paced real-time frame-accurate hitboxes and weapon firing logic.</li>
-        <li><strong>Aesthetic:</strong> High-octane dark dystopian neon atmosphere.</li>
+        <li><code>CORE</code> — Written from the ground up in <strong>C</strong> + <strong>SDL2</strong> with no pre-built game engine.</li>
+        <li><code>ENGINE</code> — Real-time 2D rendering loop, custom physics, hitboxes, and combat system.</li>
+        <li><code>WORLD</code> — High-contrast cyberpunk atmosphere built for fast-paced action.</li>
       </ul>
+      <p>
+        <img src="https://img.shields.io/badge/BUILT_WITH-C_%2F_SDL2-00FF41?style=flat-square&logo=c&logoColor=000000&labelColor=0D0208" />
+        <img src="https://img.shields.io/badge/GENRE-2D_CYBERPUNK_ACTION-00FF41?style=flat-square&labelColor=0D0208" />
+      </p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003B00&height=180&text=CYBERPUNK%0ASYSTEM%20BREAK&fontSize=22&fontColor=00FF66&stroke=00FF66&strokeWidth=2" alt="System Break Preview" width="100%" />
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/XsY0ffTDJY9HcDG68h/giphy.gif" width="100%" alt="Matrix Code Simulation" />
+      <br />
+      <sub><code>// SYSTEM_BREAK.EXE</code></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 `[MAINFRAME_TELEMETRY]`
+### 📊 `> trace --telemetry MohammedFirasOuaja`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedFirasOuaja&show_icons=true&theme=matrix&hide_border=false&border_color=00FF66&bg_color=0D0208&title_color=00FF66&text_color=A8FFB2&icon_color=00FF66" alt="Matrix GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedFirasOuaja&theme=matrix&hide_border=false&border=00FF66&background=0D0208&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="Matrix Streak Stats" width="48%" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedFirasOuaja&layout=compact&theme=matrix&hide_border=false&border_color=00FF66&bg_color=0D0208&title_color=00FF66&text_color=A8FFB2" alt="Top Languages" width="55%" />
-</div>
-
----
-
-### 📡 `[ESTABLISH_UPLINK]`
-
-<div align="center">
-  <p><em>"I can only show you the door. You're the one that has to walk through it."</em></p>
-
-  <a href="https://github.com/MohammedFirasOuaja">
-    <img src="https://img.shields.io/badge/JACK_INTO_GITHUB-00FF66?style=for-the-badge&logo=github&logoColor=black&labelColor=003300" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedFirasOuaja&show_icons=true&bg_color=0D0208&border_color=00FF41&title_color=00FF41&text_color=A8FFB2&icon_color=00FF41" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedFirasOuaja&background=0D0208&border=00FF41&stroke=003B00&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=A8FFB2&currStreakLabel=00FF41&sideLabels=A8FFB2&dates=008F11" alt="GitHub Streak" height="170" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,50:003B00,100:000000&height=100&section=footer" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedFirasOuaja&layout=compact&bg_color=0D0208&border_color=00FF41&title_color=00FF41&text_color=A8FFB2" alt="Top Languages" width="52%" />
+</div>
+
+<br />
+
+<!-- Live Matrix Green Contribution Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedFirasOuaja&bg_color=0D0208&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=003B00&border_color=00FF41&title_color=00FF41" width="100%" alt="Matrix Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  <p><code>"There is a difference between knowing the path and walking the path." — Morpheus</code></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,45:003B00,100:0D0208&height=90&section=footer" width="100%" />
 </div>
